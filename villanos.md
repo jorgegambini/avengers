@@ -2,4 +2,7 @@
 
 * Dr. Doom
 * Red Skull
-* Dr. Gambini 
+* Dr. Gambini
+* Dra Salomone
+* Dra Frola
+* Dra Van der Horst
